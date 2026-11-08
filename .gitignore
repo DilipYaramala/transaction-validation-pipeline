@@ -1,0 +1,10 @@
+target/
+data/input/
+.env
+.idea/
+.classpath
+.project
+.settings/
+*.log
+scripts/generate_data.py
+src/main/resources/data/generated_transactions.csv
